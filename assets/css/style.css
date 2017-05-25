@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url("../images/wood_pattern.png");
+    font-family: sans-serif,serif,'Times New Roman', Times,Arial;
+}
+.bg1{
+    background-color: #00b5B5;
+    color:#ffffff;
+    min-height: 400px;
+}
+
+ol{
+    margin-left: 30px;
+}
+
+ol li{
+    font-size: 2em;
+    color:#dddddd;
+    padding-left:20px;
+}
+ol li:hover{
+    background-color: #00a5a5;
+    cursor: pointer;
+    
+}
+
+.halert{
+    font-size:30px;
+}
+
+footer  {
+    font-size: 8px;
+    margin-top: 50px;
+    color: #aaaaaa;
+    background-color: #333333;
+    text-align: center;
+    padding: 100px;
+}
